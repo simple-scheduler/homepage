@@ -4,17 +4,27 @@ html {
 body {
 	font-family: 'Lato', sans-serif;
 	text-align: center;
+	max-width: 90%;
+	margin: auto;
+}
+.page-title {
+	/*max-width: 90vw;*/
 }
 h1 {
 	color: #2B2D2F;
-	font-size: 350%;
+	font-size: 250%;
 }
 a {
 	text-decoration: none;
 }
+div.option-holder {
+	/*max-height: 20%;*/
+}
 div.option {
-	padding-top: 25px;
-	padding-bottom: 25px;
+	max-width: 600px;
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	border-radius: 8px;
 	background-color: #2B2D2F;
 	color: white;
