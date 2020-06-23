@@ -19,6 +19,7 @@ a {
 }
 div.option-holder {
 	/*max-height: 20%;*/
+	padding-bottom: 5px;
 }
 div.option {
 	max-width: 600px;
