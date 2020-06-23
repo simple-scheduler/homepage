@@ -1,0 +1,25 @@
+html {
+	background: #F3EBE1;
+}
+body {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+h1 {
+	color: #2B2D2F;
+	font-size: 350%;
+}
+a {
+	text-decoration: none;
+}
+div.option {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	border-radius: 8px;
+	background-color: #2B2D2F;
+	color: white;
+}
+div.option:hover {
+	background: white;
+	color: #2B2D2F;
+}
